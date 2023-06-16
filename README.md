@@ -1,5 +1,5 @@
 ### 안녕하세요!👋
-## 23년 공부 시작한 새싹🌱
+#### 23년 공부 시작한 새싹🌱
 
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF"/>
