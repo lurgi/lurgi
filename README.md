@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/typescript-65ADF1?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
 <!--
 **lurgi/lurgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
