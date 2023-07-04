@@ -9,6 +9,8 @@
 📘[티스토리 블로그 &rarr;](https://lurgi.tistory.com/)
 
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF"/>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wahoo9040)](https://solved.ac/wahoo9040/)
 <!--
 **lurgi/lurgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
