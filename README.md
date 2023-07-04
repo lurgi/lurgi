@@ -4,8 +4,6 @@
 #### 강력한 의견과 침착한 태도를 가지자💪
 
 --------
-
-✏️[백준 알고리즘 &rarr;](https://www.acmicpc.net/user/wahoo9040)    
 📘[티스토리 블로그 &rarr;](https://lurgi.tistory.com/)
 
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF"/>
