@@ -2,9 +2,9 @@
 #### 23년 공부 시작한 새싹🌱
 #### 바른생활 루틴이🐸
 #### 강력한 의견과 침착한 태도를 가지자💪
-
 --------
 📘[티스토리 블로그 &rarr;](https://lurgi.tistory.com/)<br/>
+--------
 ✏️백준 알고리즘<br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wahoo9040)](https://solved.ac/wahoo9040/)
 
