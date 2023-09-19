@@ -4,16 +4,16 @@
 ##### 강력한 의견과 침착한 태도를 가지자💪  
 <br/>
 
-  ## ✨Main Skills✨
+  ### ✨Main Skills✨
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF"/>  
   <br/>
   
-  ## 📖Blog & SNS📖
+  ### 📖Blog & SNS📖
   <img href="https://lurgi.tistory.com/" src="https://img.shields.io/badge/Tistory-EC5826?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/> <img href="https://www.instagram.com/kku_lurgi
 " src="https://img.shields.io/badge/Instagram-F03D58?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/>  
 <br/>
   
-  ## ✍🏻Algorithm✍🏻
+  ### ✍🏻Algorithm✍🏻
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wahoo9040)](https://solved.ac/wahoo9040/)
   
 
