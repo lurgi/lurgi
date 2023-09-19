@@ -9,8 +9,8 @@
   <br/>
   
   ### 📖Blog & SNS📖
-  <img href="https://lurgi.tistory.com/" src="https://img.shields.io/badge/Tistory-EC5826?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/> <img href="https://www.instagram.com/kku_lurgi
-" src="https://img.shields.io/badge/Instagram-F03D58?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/>  
+ <a  href="https://lurgi.tistory.com/"><img src="https://img.shields.io/badge/Tistory-EC5826?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/></a> <a href="https://www.instagram.com/kku_lurgi
+"><img  src="https://img.shields.io/badge/Instagram-F03D58?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/></a>  
 <br/>
   
   ### ✍🏻Algorithm✍🏻
