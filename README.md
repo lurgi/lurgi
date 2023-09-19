@@ -1,21 +1,21 @@
-  ### 안녕하세요!👋
-  #### 23년 공부 시작한 새싹🌱
-  #### 바른생활 루틴이🐸
-  #### 강력한 의견과 침착한 태도를 가지자💪
-  <hr/>
-  
-  ### ✨Skills
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF"/>
-  <hr/>
-  
-  ### 📖Blog
-  📘[티스토리 블로그 &rarr;](https://lurgi.tistory.com/)<br/>
-  <hr/>
-  
-  ### ✍🏻Algorithm
-  ✏️백준 알고리즘<br/>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wahoo9040)](https://solved.ac/wahoo9040/)
+## 👋 안녕하세요. 박정우입니다!👋
+##### 23년 공부 시작한 새싹🌱  
+##### 바른생활 루틴이🐸  
+##### 강력한 의견과 침착한 태도를 가지자💪  
+<br/>
 
+  ## ✨Main Skills✨
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF"/>  
+  <br/>
+  
+  ## 📖Blog & SNS📖
+  <img href="https://lurgi.tistory.com/" src="https://img.shields.io/badge/Tistory-EC5826?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/> <img href="https://www.instagram.com/kku_lurgi
+" src="https://img.shields.io/badge/Instagram-F03D58?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/>  
+<br/>
+  
+  ## ✍🏻Algorithm✍🏻
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wahoo9040)](https://solved.ac/wahoo9040/)
+  
 
 <!--
 **lurgi/lurgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
