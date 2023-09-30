@@ -8,9 +8,8 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF"/>  
   <br/>
   
-  ### 📖Blog & SNS📖
- <a  href="https://lurgi.tistory.com/"><img src="https://img.shields.io/badge/Tistory-EC5826?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/></a> <a href="https://www.instagram.com/kku_lurgi
-"><img  src="https://img.shields.io/badge/Instagram-F03D58?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/></a>  
+  ### 📖Blog📖
+ <a  href="https://lurgi.tistory.com/"><img src="https://img.shields.io/badge/Tistory-EC5826?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/></a>
 <br/>
   
   ### ✍🏻Algorithm✍🏻
