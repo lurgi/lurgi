@@ -1,18 +1,18 @@
-## 👋 안녕하세요. 박정우입니다!👋
+ 👏안녕하세요!  
  🌱23년 공부 시작한 새싹  
  🐸바른생활 루틴이  
  💪강력한 의견과 침착한 태도를 가지자  
 <br/>
 
-  ### ✨Main Skills✨
+  #### ✨Main Skills✨
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF"/>  
   <br/>
   
-  ### 📖Blog📖
+  #### 📖Tech Blog📖
  <a  href="https://lurgi.tistory.com/"><img src="https://img.shields.io/badge/Tistory-EC5826?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/></a>
 <br/>
   
-  ### ✍🏻Algorithm✍🏻
+  #### ✍🏻Algorithm✍🏻
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wahoo9040)](https://solved.ac/wahoo9040/)
   
 
