@@ -1,8 +1,9 @@
- 👏안녕하세요!  
- 🌱23년 공부 시작한 새싹  
- 🐸바른생활 루틴이  
- 💪강력한 의견과 침착한 태도를 가지자  
+ 👏안녕하세요!
 <br/>
+
+#### 🖥️Career Exprience🖥️
+🌱 23.02~ 프론트엔드 공부시작!
+🤼‍♂️ 24.02~ 우아한 테크코스
 
   #### ✨Main Skills✨
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF"/>  
