@@ -2,8 +2,8 @@
 <br/>
 
 #### 🖥️Exprience🖥️
-🌱 23.01~ 프론트엔드 공부시작!    
-🤼‍♂️ 24.02~ 우아한 테크코스 6기
+🌱 23.01 ~ 프론트엔드 공부시작!    
+🤼‍♂️ 24.02 ~ 24.11 우아한 테크코스 6기
 
   #### ✨Main Skills✨
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF"/>   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF"/>  
