@@ -2,9 +2,8 @@
 <br/>
 
 #### 🖥️Exprience🖥️
-🌱 23.01 ~ 프론트엔드 공부시작!    
-🤼‍♂️ 24.02 ~ 24.11 우아한 테크코스 6기
-
+🤼‍♂️ 24.02 ~ 24.11 우아한 테크코스 6기   
+🚀 24.07 ~ 25.03 [크루루 프로젝트](https://www.cruru.kr/)
 <!--
 **lurgi/lurgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
