@@ -1,3 +1,1 @@
 <a href="https://lurgi.github.io" target="_blank"><img src="https://git-bubble.vercel.app/api/link?url=https%3A%2F%2Flurgi.github.io&theme=light&width=400&thumbnail=https%3A%2F%2Fohxmzftzhbcqmbirlvxc.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fprofile-images%2F316bc5aa-eff1-4537-892e-15facb76907c.webp" /></a>
-<br/>
-<img src="https://git-bubble.vercel.app/api/divider?style=stars&color=%2387CEEB&animation=false&width=440&theme=light&size=1.2" />
