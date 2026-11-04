@@ -39,7 +39,7 @@ An applicant tracking system for university clubs, with recruitment postings, ap
 
 **Role:** Frontend developer · Jul 2024 – Mar 2025
 
-- Reached **1,000 monthly active users (MAU)**.
+- Cruru had an estimated **1K monthly active users (MAU)**.
 - Recruited users for Cruru, which was used by a Korea University computer club to manage its recruitment process.
 - Built frontend workflows for application management, candidate evaluation, and application status updates.
 - Helped prioritize features using feedback from five public demos and interviews with HR professionals and service operators.
