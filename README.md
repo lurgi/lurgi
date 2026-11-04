@@ -8,7 +8,7 @@ I build web applications and developer tools, taking projects from requirements 
 
 Based in Seoul, South Korea.
 
-[Blog](https://lurgi.github.io) · [GitHub](https://github.com/lurgi)
+[Blog](https://lurgi.github.io)
 
 ## Open Source Contributions
 
