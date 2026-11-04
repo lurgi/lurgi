@@ -4,9 +4,9 @@
 
 Bachelor's in Computer Engineering · Engineer Information Processing
 
-I build web applications and developer tools, taking projects from requirements through implementation and deployment. I enjoy tracing bugs across application and library boundaries, understanding why they happen, and turning them into reproducible fixes.
+I build web applications and developer tools. I also contribute fixes to open-source libraries I use.
 
-Based in Seoul, South Korea.
+Seoul, South Korea.
 
 [Blog](https://lurgi.github.io)
 
@@ -18,7 +18,7 @@ Based in Seoul, South Korea.
 
 - Fixed the ordering of text and completed tool calls in Google/Vertex streams.
 - Preserved standalone thought signatures on empty text and reasoning parts for conversation replay.
-- Authored the fix, reproduction, and original regression tests; worked through maintainer review to merge the change.
+- Authored the implementation, reproduction, and original regression tests.
 
 ## Experience
 
@@ -26,31 +26,24 @@ Based in Seoul, South Korea.
 
 *Jun 2025 – Jun 2026*
 
-- Owned end-to-end delivery of clinic website projects, covering requirements, scheduling, design review, development, QA, and deployment.
-- Established a Notion-based workflow for issue tracking, priorities, schedules, and QA, coordinating work across design and development.
-- Designed an Action–Service–Repository architecture and shared validation schemas across frontend and backend.
-- Developed frontend, backend, and admin features for a content-based web service.
+- Managed development and built the backend for a content-marketing form builder in a four-person team. Defined MVP scope and feature priorities with the product owner. The team developed the MVP over two months and tested it with 50 users.
+- Built and delivered a CMS backend for multiple hospital websites, separating content managed by each hospital from content produced and supplied by our team.
 
 ## Selected Projects
 
 ### [Cruru](https://github.com/woowacourse-teams/2024-cruru)
 
-An applicant tracking system for university clubs, with recruitment postings, applicant management, and customizable application forms.
+An applicant tracking system for university club recruitment.
 
 **Role:** Frontend developer · Jul 2024 – Mar 2025
 
-- Cruru had an estimated **1K monthly active users (MAU)**.
-- Recruited users for Cruru, which was used by a Korea University computer club to manage its recruitment process.
-- Built frontend workflows for application management, candidate evaluation, and application status updates.
-- Helped prioritize features using feedback from five public demos and interviews with HR professionals and service operators.
-
-[Source](https://github.com/woowacourse-teams/2024-cruru)
+- Built a drag-and-drop Kanban board for applicant management in response to feedback from public demos and expert interviews.
+- Contacted a Korea University computer club and supported its adoption of Cruru for recruitment, participating in meetings and follow-up improvements.
+- Cruru had an estimated **1K monthly active users (MAU)** in March 2025.
 
 ### [Mesa](https://github.com/lurgi/mesa)
 
-A React state management library with automatic dependency tracking and path-based subscriptions, designed to update components when the data they use changes.
-
-**Focus:** React state management, reactivity, and component rendering.
+A React state management library I built with automatic dependency tracking and path-based subscriptions.
 
 [Documentation](https://mesa-react.vercel.app) · [Source](https://github.com/lurgi/mesa)
 
